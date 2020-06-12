@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "com.unity.barracuda": "0.5.0-preview",
+    "com.unity.build-report-inspector": "0.1.2-preview",
+    "com.unity.cinemachine": "2.5.0",
+    "com.unity.connect.share": "1.2.0-preview.1",
+    "com.unity.learn.iet-framework": "0.3.0-preview.5",
+    "com.unity.package-validation-suite": "0.9.1-preview",
+    "com.unity.postprocessing": "2.3.0",
+    "com.unity.probuilder": "4.2.3",
+    "com.unity.test-framework": "1.1.14",
+    "com.unity.textmeshpro": "2.0.1",
+    "com.unity.timeline": "1.2.14",
+    "com.unity.ugui": "1.0.0",
+    "com.unityexample.createparent": "https://github.com/UnityExample/create-parent-tool.git",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.assetbundle": "1.0.0",
+    "com.unity.modules.audio": "1.0.0",
+    "com.unity.modules.director": "1.0.0",
+    "com.unity.modules.imageconversion": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.modules.particlesystem": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.physics2d": "1.0.0",
+    "com.unity.modules.screencapture": "1.0.0",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.modules.unitywebrequestassetbundle": "1.0.0",
+    "com.unity.modules.unitywebrequestaudio": "1.0.0",
+    "com.unity.modules.unitywebrequesttexture": "1.0.0",
+    "com.unity.modules.unitywebrequestwww": "1.0.0",
+    "com.unity.modules.vehicles": "1.0.0",
+    "com.unity.modules.video": "1.0.0",
+    "com.unity.modules.vr": "1.0.0",
+    "com.unity.modules.xr": "1.0.0"
+  },
+  "lock": {
+    "com.unityexample.createparent": {
+      "revision": "HEAD",
+      "hash": "7ba3917f7a481eb4d0065e92df888c7211e73491"
+    }
+  }
+}

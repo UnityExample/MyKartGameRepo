@@ -1,0 +1,13 @@
+{
+    "name": "EditorTests",
+    "references": [
+        "Unity.Postprocessing.Runtime"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
